@@ -24,8 +24,6 @@ To run
 
 Original song (10 seconds duration)
 
-
-<audio src=./inputs/inputs_eminem.mp3 controls></audio>
 ![Original song](./spectrograms/Eminem.png)
 
 Just 1 iteration
