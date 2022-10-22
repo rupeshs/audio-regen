@@ -31,6 +31,8 @@ Just 1 iteration
 ![Original song](./spectrograms/Regen%20Eminem%201.png)
 
 
-Just 500 iterations
+500 iterations
 
 ![Original song](./spectrograms/Regen%20Eminem%20500.png)
+
+500 iterations result is better in audio fidelity.
