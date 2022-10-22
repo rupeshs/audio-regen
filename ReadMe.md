@@ -9,7 +9,7 @@ Tried to regenerate song using Inverse short-time Fourier transform (ISFT) and G
 
 To setup environment run the following command:
 
-`<code>`conda env create -f environment.yml`
+`conda env create -f environment.yml`
 
 activate environment :
 
