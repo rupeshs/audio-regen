@@ -1,0 +1,10 @@
+name: audio-regen-env
+channels:
+  - defaults
+dependencies:
+  - python>=3.9
+  - pip=20.3
+  - matplotlib
+  - pip:
+      - librosa==0.9.2
+      - black
